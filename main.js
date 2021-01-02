@@ -84,7 +84,7 @@ workBtnContainer.addEventListener('click', (e)=> {
 })
 
 document.querySelector('.navbar__toggle-btn').addEventListener('click', ()=>{
-    menu.classList.toggle('active');
+    navbarMenu.classList.toggle('active');
 })
 
 //Scroll & Nav
